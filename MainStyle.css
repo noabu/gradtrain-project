@@ -1,0 +1,212 @@
+html{
+	background-color:#F0F8FF;
+}
+
+#partA{
+	height:40%;
+	background-color:#F0F8FF;
+}
+
+#partA img{
+	display: inline-block;
+	width : 20%;
+	height:18%;
+	margin-left:2%;
+}
+
+header{
+	text-align:center;
+	font-family: Courier New, Courier, monospace;
+	font-weight: bold;	
+	background-color:#F0F8FF;
+	margin-left:3%;
+	margin-right:2.8%;
+}
+header h1{
+	font-size:40px;
+	padding:0px;
+	margin:0px;
+	color:#1f1f7a;
+	text-shadow: 2px 2px #d6d6f5;
+}
+header h2{
+	color:#00802b;
+	font-size:20px;
+	padding:0px;
+	margin:0px;
+	margin-bottom:10px;
+	text-shadow: 2px 2px white;
+}
+#main img{
+	display: inline-block;
+	width : 10%;
+	height:30%;
+	margin-left:20%;
+}
+
+#main{
+	margin-left:3%;
+	display: inline-block;
+	width : 85%;
+	margin-right:5px;
+	padding-right: 5px;
+	padding-left:5px;
+
+}
+#main h3{
+	padding:0px;
+	margin:0px;
+	
+}
+#mainSection{
+	background-color:#F0F8FF;
+	width:100%;
+	
+}
+#mainSection table{
+	    table-layout: fixed;
+		margin-top:20px;
+		margin-left:25%;
+		
+}
+
+
+#txtInput{
+	background-color:#e6ecff;
+	width: 40%;
+	margin-left:2%;
+	font-family:Lucida Console, Monaco, monospace;
+	border-radius: 0.7em;
+	
+}
+#cmdOK_1{
+	margin-left:20px;
+	border:1px solid gray;
+	width:100px;
+	-moz-box-shadow: 3px 4px 0px 0px #BABAB9;
+	-webkit-box-shadow: 3px 4px 0px 0px #BABAB9;
+	box-shadow: 3px 4px 0px 0px #BABAB9;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #FEFAF0), color-stop(1, #bab1ba));
+	background:-moz-linear-gradient(top, #FEFAF0 5%, #bab1ba 100%);
+	background-color:#FEFAF0;
+	-webkit-border-radius:4px;
+	cursor:pointer;
+	font-family:Lucida Console, Monaco, monospace;
+	text-shadow:0px 1px 0px #e1e2ed;	
+}
+
+
+footer{
+	text-align: center;
+	background-color:#F3F8EE;
+}
+#background h1{
+	font-family:Courier New, Courier, monospace;
+	font-weight: bold;	
+	text-align: center;
+	font-size:42px;
+	color:#1f1f7a;
+	padding:0px;
+	margin:0px;
+	margin-top:10px;
+	margin-left:3%;
+	margin-right:2.5%;
+	text-shadow: 2px 2px white;
+}
+
+#partC{
+	#border: 1px solid white;
+	#width:60%;
+	height:100%;
+	#background-color:#f7fcff;
+	#margin-left:20%;
+	font-family:Courier New, Courier, monospace;
+	#box-shadow: none;
+    #background: rgba(50, 60, 117, 0.1);
+    #border-radius: 5px;
+	
+}
+#place{
+	box-shadow: none;
+    background: rgba(50, 60, 117, 0.1);
+    border-radius: 5px;
+}
+
+
+#partC table{
+	margin-left:5%;
+    table-layout: fixed;
+    border-collapse: collapse;
+	border-spacing: 0; 
+	width:90%;
+	text-align:center;
+	-webkit-box-shadow: 3px 4px 0px 0px #BABAB9;
+	margin-bottom:30px;
+	border-radius: 1em;
+	overflow: hidden;
+}
+
+#partC td{
+	border-bottom: 2px solid white;
+	border-left:1px solid white;
+	padding:18px;
+	background: #e6ecff;
+	font-family: Optima, sans-serif;
+	font-family:Bradley Hand, cursive;
+	font-family:Lucida Console, Monaco, monospace;
+	font-size: 12.5px;
+}
+
+#partC thead {  
+	border-bottom: 1px solid white;
+    background: #222286;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #FEFAF0), color-stop(1, #bab1ba));
+	background:-moz-linear-gradient(top, #FEFAF0 5%, #bab1ba 100%);
+	background-color:#FEFAF0;
+    font-weight: bold;
+	text-shadow: 1px 1px white;
+	
+}
+
+#partC p{
+	color:white;
+	font-size: 12px;
+	text-align:center;
+	padding-bottom:0px;
+	margin-bottom:px;
+	font-family:Lucida Console, Monaco, monospace;
+	
+}
+#partC p span{ 
+    background-color:#1f1f7a; 
+}
+
+#background{
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; 
+	background-image: url("g.png");
+	width:70%;
+	height:70%;
+	margin-left:15%;
+}
+#in p{
+	font-size:10px;
+	color:black;
+
+}
+
+.cb{
+		border:1px solid gray;
+	width:50px;
+	-moz-box-shadow: 3px 4px 0px 0px #BABAB9;
+	-webkit-box-shadow: 3px 4px 0px 0px #BABAB9;
+	box-shadow: 3px 4px 0px 0px #BABAB9;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #FEFAF0), color-stop(1, #bab1ba));
+	background:-moz-linear-gradient(top, #FEFAF0 5%, #bab1ba 100%);
+	background-color:#FEFAF0;
+	-webkit-border-radius:4px;
+	cursor:pointer;
+	font-family:Lucida Console, Monaco, monospace;
+	text-shadow:0px 1px 0px #e1e2ed;	
+}
