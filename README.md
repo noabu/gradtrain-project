@@ -13,3 +13,5 @@ The project is divided into two parts.
  This part will verify that users have utilized the services of GradTrain are study or studied in universities proposed them.<br/>
  it will be done by automated tests using Selenium.
  <h4>part two:</h4>
+ In this section we would like to create a prediction model for additional areas of study that do not exist today.
+ We will do this by choosing the learning algorithm that best meets the company's requirements.
