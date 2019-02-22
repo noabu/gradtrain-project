@@ -15,3 +15,7 @@ The project is divided into two parts.
  <h4>part two:</h4>
  In this section we would like to create a prediction model for additional areas of study that do not exist today.
  We will do this by choosing the learning algorithm that best meets the company's requirements.
+
+<h1>Software Design<>
+ Use Case:
+ <img src="https://github.com/noabu/gradtrain-project/blob/master/usecase website.PNG" width="190px" height="50px">
