@@ -17,5 +17,13 @@ The project is divided into two parts.
  We will do this by choosing the learning algorithm that best meets the company's requirements.
 
 <h1>Software Design</h1>
+ <h3>User Interface: </h3>
 <h4> Use Case: </h4>
- <img src="https://github.com/noabu/gradtrain-project/blob/master/usecase website.PNG">
+ <img src="https://github.com/noabu/gradtrain-project/blob/master/usecase website.PNG" width="80%" height="80%">
+
+<h4> Sequence Diagram: </h4>
+ <img src="https://github.com/noabu/gradtrain-project/blob/master/sequenceDiagram part a.PNG" width="80%" height="80%">
+ 
+ <h3>automation test:</h3>
+ <h4> class diagram: </h4>
+ <img src="https://github.com/noabu/gradtrain-project/blob/master/__classDiagram100.png" width="80%" height="80%">
